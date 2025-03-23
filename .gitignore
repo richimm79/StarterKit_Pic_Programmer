@@ -51,3 +51,5 @@ Module.symvers
 Mkfile.old
 dkms.conf
 /.vs
+/StarterKit_Pic_Programmer.X/.generated_files/flags/default
+/StarterKit_Pic_Programmer.X/nbproject/Makefile-genesis.properties
